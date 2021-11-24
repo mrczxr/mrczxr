@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ![Snake animation](https://github.com/mrczxr/mrczxr/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
  
